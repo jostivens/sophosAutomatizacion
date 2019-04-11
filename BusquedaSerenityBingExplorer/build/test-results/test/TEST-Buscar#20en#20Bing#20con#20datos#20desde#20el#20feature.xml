@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Buscar en Bing con datos desde el feature" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-02T01:54:39" hostname="LAPTOP-L2D6D9IH" time="29.551">
+  <properties/>
+  <testcase name="Buscar en bing" classname="Buscar en Bing con datos desde el feature" time="6.063"/>
+  <testcase name="Buscar en bing" classname="Buscar en Bing con datos desde el feature" time="3.609"/>
+  <testcase name="Buscar en bing" classname="Buscar en Bing con datos desde el feature" time="19.859"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+varificacion
+
+
+
+
+
+
+
+
+
+varificacion
+
+
+
+
+
+
+
+
+
+varificacion
+
+
+]]></system-out>
+  <system-err><![CDATA[Started InternetExplorerDriver server (32-bit)
+3.9.0.0
+Listening on port 24708
+Only local connections are allowed
+abr 01, 2019 8:54:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+abr 01, 2019 8:54:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+abr 01, 2019 8:54:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

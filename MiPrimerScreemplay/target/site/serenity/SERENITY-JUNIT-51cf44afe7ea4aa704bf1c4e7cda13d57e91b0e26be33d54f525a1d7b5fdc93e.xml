@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Busqueda en google con datos desde el feature" skipped="0" tests="3" time="49.09" timestamp="2019-04-03 08:02:25"><testcase name="buscar en google"><failure message="&#10;Expected: is &quot;supersonico&quot;&#10;     but: was &quot;Pedro Picapiedra&quot;" type="java.lang.AssertionError">
+Expected: is "supersonico"
+     but: was "Pedro Picapiedra"</failure><system-err>
+Expected: is "supersonico"
+     but: was "Pedro Picapiedra"&#13;
+co.com.google.qa.miprimerscreemplay.stepsdefinitions.BusquedaEnGoogleStepssDefinitions.elVerificaQueLaPalabraEsteEnLosResultados(BusquedaEnGoogleStepssDefinitions.java:47)&#13;
+✽.Stiven verifica que la palabra "supersonico" este en los resultados(src/test/resources/features/BusquedaEnGoogle.feature:8)&#13;
+</system-err></testcase></testsuite>

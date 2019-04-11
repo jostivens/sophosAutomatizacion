@@ -1,0 +1,76 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 24,
+        "name": "successful search in google",
+        "description": "",
+        "id": "google-search;successful-search-in-google",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1374721,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "stiven is on google homepage",
+            "match": {
+              "location": "BuscarEngoogleStepDefinitions.stiven_is_on_google_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 209067,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "he does the search",
+            "match": {
+              "location": "BuscarEngoogleStepDefinitions.he_does_the_search()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 144214,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "he validates that de result is success",
+            "match": {
+              "location": "BuscarEngoogleStepDefinitions.he_validates_that_de_result_is_success()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "google search",
+    "description": "  I want to search a word in google/ quiero buscar una palabra en google",
+    "id": "google-search",
+    "keyword": "Feature",
+    "uri": "file:src/test/resource/features/BuscarEnGoogle.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
